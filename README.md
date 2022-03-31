@@ -1,2 +1,2 @@
-# personal-site-dev
-Development repository for my personal website
+# My Personal Website
+Development repository for my personal website.
